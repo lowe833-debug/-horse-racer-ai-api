@@ -1,0 +1,13 @@
+{
+  "name": "horse-racer-ai-api",
+  "version": "1.0.0",
+  "description": "AI-powered horse racing prediction API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["horse", "racing", "ai", "api", "prediction"],
+  "author": "",
+  "license": "ISC"
+}
