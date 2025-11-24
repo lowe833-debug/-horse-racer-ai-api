@@ -17,7 +17,7 @@ If you're starting with a local project and want to push it to this GitHub repos
    
    For example, on Windows:
    ```bash
-   cd "c:\Users\Ben Lowe\Downloads\html horse racer\horse-ai"
+   cd "c:\Users\YourUsername\Downloads\html horse racer\horse-ai"
    ```
 
 2. **Initialize git (if not already initialized)**
