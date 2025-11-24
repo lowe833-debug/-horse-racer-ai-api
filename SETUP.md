@@ -19,6 +19,8 @@ If you're starting with a local project and want to push it to this GitHub repos
    ```bash
    cd "c:\Users\YourUsername\Downloads\html horse racer\horse-ai"
    ```
+   
+   **Note:** If your path contains spaces, make sure to enclose it in quotes as shown above.
 
 2. **Initialize git (if not already initialized)**
    ```bash
